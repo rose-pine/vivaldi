@@ -19,7 +19,7 @@
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Placeholder](https://github.com/SocietasEvanescentes/Vivaldi/assets/25782090/8d3567e9-9356-4103-804f-a41e7c72c1cf)
 
 ## Thanks to
 
