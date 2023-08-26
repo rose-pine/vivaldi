@@ -15,7 +15,7 @@
 
 1. Open Vivaldi
 2. Under settings, go to **Themes** and select "**Open Theme**"
-3. Import the **.zip** varient of `Rosé Pine` of your choice from the file picker window  
+3. Import the **.zip** of the `Rosé Pine` theme of your choice from the file picker dialogue
 
 ## Gallery
 
