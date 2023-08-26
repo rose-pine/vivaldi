@@ -19,7 +19,8 @@
 
 ## Gallery
 
-![Rosé Pine for Vivaldi Browser Poster](https://github.com/SocietasEvanescentes/Vivaldi/assets/25782090/8d3567e9-9356-4103-804f-a41e7c72c1cf)
+![Rosé Pine for Vivaldi Browser Poster](https://github.com/SocietasEvanescentes/Vivaldi/assets/25782090/4a7a2640-fb1e-41b6-b554-cf37c270ed67)
+
 
 ## Thanks to
 
