@@ -13,9 +13,9 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Open Vivaldi
+2. Under settings, go to **Themes** and select "**Open Theme**"
+3. Import the **.zip** varient of `Rosé Pine` of your choice from the file picker window  
 
 ## Gallery
 
