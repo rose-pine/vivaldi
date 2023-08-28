@@ -19,20 +19,23 @@
 
 ## Gallery
 
-<details>
-<summary>Rosé Pine</summary>
+
+**Rosé Pine**
+
 <img src="https://github.com/SocietasEvanescentes/Vivaldi/assets/25782090/eb7446d9-48df-432f-89c9-9a51e318224a" width="500">
-</details>
 
-<details>
-<summary>Rosé Pine Moon</summary>
+
+
+**Rosé Pine Moon**
+
 <img src="https://github.com/SocietasEvanescentes/Vivaldi/assets/25782090/2a320d44-c9fc-4bc4-8bf5-331282e3cd1f" width="500">
-</details>
 
-<details>
-<summary>Rosé Pine Dawn</summary>
+
+
+**Rosé Pine Dawn**
+
 <img src="https://github.com/SocietasEvanescentes/Vivaldi/assets/25782090/233119a3-58ba-40d0-8a8c-9cb745406034" width="500">
-</details>
+
 
 
 ## Thanks to
